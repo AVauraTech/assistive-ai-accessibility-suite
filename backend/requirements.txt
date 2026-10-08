@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+numpy<2.0.0
+mediapipe==0.10.14
+opencv-python
+websockets
+python-multipart
+easyocr
+torch
+torchvision
+transformers
+sumy
+nltk
+scikit-learn
+requests
+timm
